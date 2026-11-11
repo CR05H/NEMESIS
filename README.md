@@ -69,14 +69,13 @@ bash
  Copy
 
 # Clone or download the file
-git clone https://github.com/omar-emad/nemesis.git
-cd nemesis
+git clone https://github.com/CR05H/NEMESIS
 
 # Make executable
-chmod +x nemesis.py
+chmod +x Nemesis.py
 
 # Run with sudo for full privileges
-sudo ./nemesis.py
+sudo ./Nemesis.py
 
 
 Method 2: Manual Dependency Install
@@ -99,7 +98,7 @@ Run the tool from your terminal:
 bash
  Copy
 
-sudo ./nemesis.py
+sudo ./Nemesis.py
 
 
 Interactive Workflow
